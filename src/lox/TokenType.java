@@ -19,7 +19,7 @@ public enum TokenType {
 
     // 키워드
     AND, CLASS, ELSE, FALSE, FUN, FOR, IF, NIL, OR,
-    PRINT, RETURN, SUPER, THIS, VAR, WHILE,
+    PRINT, RETURN, SUPER, THIS, TRUE, VAR, WHILE,
 
     EOF
 }
